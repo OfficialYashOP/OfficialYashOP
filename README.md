@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OfficialYashOP
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python,Html
+- 🌱 I’m currently learning Python,Html,C
 
 <!---
 OfficialYashOP/OfficialYashOP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
