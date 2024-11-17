@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OfficialYashOP
+- 👋 Hi, I’m @
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python,Html,C
 
